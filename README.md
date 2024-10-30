@@ -1,5 +1,7 @@
 # MLFlow Custom Headers Plugin
 
+> [Source code](https://github.com/yakkomajuri/mlflow_custom_headers_plugin)
+
 A package that enables setting any number of custom headers to be passed along with requests to the MLFlow tracking server.
 
 This is very useful for enabling proper authentication on your MLFlow instance beyond MLFlow's simplistic authentication capabilities using basic auth or one single token.
